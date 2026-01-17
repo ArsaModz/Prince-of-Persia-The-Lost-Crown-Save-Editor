@@ -9,7 +9,7 @@ A modern, high-performance save editor for *Prince of Persia: The Lost Crown* on
 Modify core player statistics and equipment levels to suit your playstyle:
 
 * **Health Status:** Directly edit current HP or set it to max (9999).
-* **Currency & Resources:** Modify Time Crystals, Xerxes Coins, and Damascus Ingots up to 999,999,999.
+* **Currency & Resources:** Modify Time Crystals, Xerxes Coins, and Damascus Ingots up to 999,999.
 * **Equipment Upgrades:** Max out levels for your Sword, Bow, Quiver capacity, and Potion efficiency/capacity with a single click.
 
 ### ⚡ Abilities & Amulets

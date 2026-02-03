@@ -49,4 +49,4 @@ The editor features a professional, modern dark theme designed for ease of use:
 
 ---
 
-*Created by ArsaModz*
+*Created by ArsaModz* :)

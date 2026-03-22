@@ -1,6 +1,6 @@
-# Prince of Persia: The Lost Crown Save Editor (PS4)
+# Prince of Persia: The Lost Crown Save Editor (PS4/PC)
 
-A save editor for *Prince of Persia: The Lost Crown* on PS4, built with Python and PyQt6. This tool provides a powerful graphical interface to modify player stats, unlock all abilities and amulets, and manage your inventory with a full item database.
+A save editor for *Prince of Persia: The Lost Crown* on PS4 and PC, built with Python and PyQt6. This tool provides a powerful graphical interface to modify player stats, unlock all abilities and amulets, and manage your inventory with a full item database.
 
 ## 🚀 Key Features
 
@@ -43,7 +43,7 @@ The editor features a professional, modern dark theme designed for ease of use:
 
 ## 📝 How to Use
 
-1. **Open:** Load your decrypted PS4 save file using the "Open Save File" button.
+1. **Open:** Load your PS4 or PC save file using the "Open Save File" button.
 2. **Edit:** Navigate through the tabs to adjust your stats, unlock abilities, or add items.
 3. **Save:** Use "Save Changes" to apply modifications. The tool automatically creates a `.bak` backup of your original save for safety.
 
